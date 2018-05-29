@@ -1,0 +1,40 @@
+.alignCenter{
+    align-items: center
+}
+
+.fontz2{
+    font-size: 2rem!important;
+}
+.balanceBtn{
+    height: 6rem;
+    font-size: 2rem;
+    background: #01b4f5!important;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.m-portlet .m-portlet__head {
+    border-bottom: 0px solid #ebedf2;
+    
+}
+.bgColorBlue{
+background-color: #0b3a97;
+}
+.colorW{
+    color: white;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.form-group{
+    color: white;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.form-group h6{
+    color: #01b4f5
+}
+.balanceBtn:hover{
+background: #3372ec!important;
+}
+.balanceBtnPink{
+    height: 4rem;
+    font-size: 2rem;
+    background: #ff368d!important;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}

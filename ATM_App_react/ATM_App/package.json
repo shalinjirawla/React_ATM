@@ -1,0 +1,23 @@
+{
+  "name": "app1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "history": "^4.7.2",
+    "jsonfile": "^4.0.0",
+    "react": "^16.3.2",
+    "react-bootstrap-sweetalert": "^4.4.1",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "sweetalert-react": "^0.4.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

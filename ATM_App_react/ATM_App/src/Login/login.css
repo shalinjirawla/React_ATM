@@ -1,0 +1,251 @@
+.backGround {
+    padding: 5rem 10rem 10rem 10rem;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('https://keenthemes.com/metronic/preview/demo2/angular/assets/app/media/img//bg/bg-5.jpg');
+}
+
+.card{
+padding: 1rem !important;
+}
+
+.btn-focus {
+    color: #fff;
+    background-color: #4869e2 !important;
+    border-color: #4869e2!important;
+}
+.btn-focus:hover {
+    color: #fff;
+    background-color: #395bd7!important;
+    border-color: #395bd7!important;
+}
+.btn-focus:not(:disabled):not(.disabled).active, .btn-focus:not(:disabled):not(.disabled):active, .show>.btn-focus.dropdown-toggle {
+    color: #fff;
+    background-color: #395bd7!important;
+    border-color: #395bd7!important;
+}
+
+.public-space {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 460px;
+    -ms-flex: 0 1 460px;
+    flex: 0 1 460px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.goco-card {
+    background: #FFF;
+    border: 1px solid #DADCDF;
+    border-radius: 0.5rem;
+    display: block;
+    position: relative;
+    width: 100%;
+    
+}
+.public-space .goco-card {
+    width: 100%;
+}
+.goco-card--spacious .goco-card-body, .goco-card--spacious .accordion .accordion-pane, .accordion .goco-card--spacious .accordion-pane {
+    padding: 3rem;
+}
+.app__body {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    /* -webkit-box-pack: center; */
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.app__body {
+    margin-top: 20px;
+}
+.goco-button--icon {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+.goco-button--primary {
+    background-color: #56A2F7;
+    border-color: #56A2F7;
+    color: #FFF;
+}
+
+.goco-button {
+    background: #FFF;
+    border: 1px solid #DADCDF;
+    border-radius: 4px;
+    color: #62646A;
+    cursor: pointer;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    font-family: proxima-soft, sans-serif;
+    font-size: 0.875rem;
+    height: 2.5rem;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    outline: none;
+    padding: 0 16px;
+    position: relative;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+}
+
+.goco-card{
+    padding: 3rem;
+}
+.public-space{
+    padding-top: 7rem;    
+}
+
+.m-checkbox.m-checkbox--focus>span:after {
+    border: solid #4869e2;
+}
+.m-checkbox.m-checkbox--focus>input:checked~span {
+    border: 1px solid #4869e2;
+}
+
+.m-link.m-link--focus {
+    color: #4869e2;
+}
+.m-link.m-link--focus:hover {
+    color: #4869e2;
+}
+
+.btn.btn-outline-focus {
+    color: #4869e2;
+}
+.btn-outline-focus {
+    color: #4869e2!important;
+    background-color: transparent;
+    background-image: none;
+    border-color: #4869e2!important;
+}
+.btn-outline-focus:not(:disabled):not(.disabled).active, .btn-outline-focus:not(:disabled):not(.disabled):active, .show>.btn-outline-focus.dropdown-toggle {
+    color: #fff;
+    background-color: #395bd7!important;
+    border-color: #395bd7!important;
+}
+.btn-outline-focus.focus,.btn-outline-focus:focus, .btn-outline-focus:hover{
+    color: #fff;
+    background-color: #395bd7 !important;
+    border-color: #395bd7!important;    
+}
+#m_login_signup_cancel{
+    margin-left: 5px;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url('https://fonts.gstatic.com/s/poppins/v5/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2')
+}
+* {
+    font-family: myFirstFont;
+ }
+
+.btn.m-btn--custom {
+    padding: .75rem 2rem;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: myFirstFont!important;
+}
+
+body{
+    --font-family-sans-serif: myFirstFont;
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace!important;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-weight: 300!important;
+    font-family: Poppins;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.m-grid.m-grid--hor:not(.m-grid--desktop):not(.m-grid--desktop-and-tablet):not(.m-grid--tablet):not(.m-grid--tablet-and-mobile):not(.m-grid--mobile) {
+    display: flex;
+    display: -ms-flexbox;
+    flex-direction: column;
+    -ms-flex-direction: column;
+}
+.m-checkbox, .m-radio {
+    display: inline-block;
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+.font15{
+font-size: 15px!important;
+}
+.m-login.m-login--1 .m-login__wrapper .m-login__logo {
+    margin: 0 auto 2rem auto!important;
+}
+.m-login.m-login--1 .m-login__wrapper{
+    padding: 14% 2rem 2rem 2rem!important;
+}
+#m_login{
+    overflow-y: hidden;
+}
+/* .m-login.m-login--1 .m-login__wrapper .m-login__form .m-login__form-action{
+    margin: 10px 0 2rem 0!important;
+} */
+/* .m-login.m-login--1 .m-login__wrapper .m-login__form {
+    margin-top: 3rem!important;
+} */
+.colorR{
+    color:#f4516c;
+}
+.loginBtn{
+    cursor: pointer;
+    background-color: transparent;
+    border: 0;
+    position: absolute;
+    top: 4px;
+    right: 0;
+    padding: .75rem 1.25rem;
+}
+.hidden{
+    display: none;
+}

@@ -1,0 +1,51 @@
+.Backimage{
+    background-image:url('https://keenthemes.com/metronic/preview/demo8/angular/assets/app/media/img/bg/bg-7.jpg'); 
+}
+
+.m-header .m-header__top {
+    background: #2c2d3a;
+}
+.m-header{
+    background: #2c2d3a;
+}
+
+.maxHeight{
+    max-height: 250px;
+}
+.pos1{
+    position:relative; top:0; left:0;
+}
+.pos2{
+    max-height: 250px; height: 250px; position: relative; overflow: visible;
+}
+.pos3{
+    position: absolute; min-height: 50px; top: 0px;
+}
+.lineheight{
+
+    line-height: 50px;
+}
+.disN{
+    display: none;
+}
+.max180{
+    min-height: 180px;
+}
+.m-content {
+    padding: 30px 30px;
+}
+.colorWhite{
+ color: white;   
+}
+.alignRight{
+    text-align: right
+}
+.hand{
+    cursor: pointer;
+}
+.middle{
+    vertical-align: middle;
+}
+.fullHeight{
+    height: -webkit-fill-available!important;
+  }

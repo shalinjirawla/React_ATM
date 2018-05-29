@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "balance":"2000",
+        "accountno":"12186520",
+        "savings":"769"
+    },
+    {
+        "id":"2",
+        "balance":"500",
+        "accountno":"12746321",
+        "savings":"7500"
+    }
+]

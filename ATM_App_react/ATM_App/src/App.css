@@ -1,0 +1,97 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.bgColorBlue{
+  background-color: #0b3a97;
+  /* height: -webkit-fill-available!important; */
+  height: 100vh
+}
+  /* .bgColorBlue{
+    background-color: #0b3a97;
+    height: -mozkit-fill-available!important;
+    } */
+  .m-content{
+    margin-bottom: 0px!important;
+  }
+  .container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center
+  }
+/* 
+.maxHeight{
+  height: -webkit-fill-available!important;
+} */
+/* .balanceBtnPink{
+  height: 4rem;
+  font-size: 5rem;
+  background: #ff368d!important;
+  font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック"!important;
+} */
+.balanceBtnPink:hover{
+  background: #ff368dc7!important;
+}
+.balanceBtnPink{
+  height: 4rem;
+  font-size: 2rem;
+  background: #ff368d!important;
+  font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.fullHeight{
+  height: -webkit-fill-available!important;
+}
+.TL50 {
+  top: '50%';
+  position: 'absolute';
+  top: '50%';
+  left: '50%';
+  transform: 'translate(-50%,-50%)';
+  text-align: 'center'
+}
+
+.verticalCenter{
+  height: -webkit-fill-available;
+  position: relative;
+  top: 50%;
+  transform: translateY(30%);
+}
+.m-portlet__head{
+  padding: 3rem!important
+}
+.pad3{
+  padding: 3rem;
+}
+.m-portlet__body{
+  padding: 3rem!important
+}
+.form-group h5{
+  color: #01b4f5!important;
+  padding-bottom: 5px!important;
+}

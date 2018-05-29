@@ -1,0 +1,63 @@
+.alignItemCenter{
+    text-align: center;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.alignLeft{
+    text-align: left;
+}
+
+.fontz2{
+    font-size: 2rem!important;
+}
+.balanceBtn{
+    height: 6rem;
+    font-size: 2rem;
+    background: #01b4f5!important;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.balanceInput{
+    height: 6rem;
+    font-size: 20px;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.balanceInput::-webkit-input-placeholder {
+    color: #1c3796 !important;
+    }
+.m-portlet .m-portlet__head {
+    border-bottom: 0px solid #ebedf2;
+    
+}
+.bgColorBlue{
+background-color: #0b3a97;
+/* height: -webkit-fill-available!important; */
+}
+.colorW{
+    color: white;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.form-group{
+    color: white;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;
+}
+.form-group h6{
+    color: #01b4f5
+}
+.balanceBtn:hover{
+background: #3372ec!important;
+}
+.alignRight{
+    text-align: right!important;
+}
+.Font27{
+    font-size: 27px;
+}
+.balanceBtnDone{
+    height: 4rem;
+    font-size: 2rem;
+    background: skyblue!important;
+    font-family: "Helvetica Neue", "Helvetica", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", arial, sans-serif;    
+}
+.balanceBtnDone:hover{
+    background: #01b4f5ad!important;
+}
+
